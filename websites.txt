@@ -33,6 +33,16 @@ tiktokcdn.com.edgekey.net
 tiktokcdn-com.cdn.ampproject.org
 
 
+snssdk.com
+sgsnssdk.com
+log.byteoversea.com
+api2.musical.ly
+api.musical.ly
+api-va.tiktokv.com
+api-sg.tiktokv.com
+api2-19-h2.musical.ly
+api2-16-h2.musical.ly
+
 
 # Core Facebook Domains
 facebook.com
@@ -84,4 +94,24 @@ b-graph.facebook.com
 # Meta Services (Optional)
 meta.com
 portal.facebook.com
+
+
+# Additional Facebook & Meta Domains (Updated 2024)
+graph.instagram.com
+business.instagram.com
+metaai.com
+meta.ai
+star.facebook.com
+api.star.facebook.com
+msgr.com
+b-api.facebook.com
+z.facebook.com
+messengerkids.com
+lookaside.facebook.com
+facebookmail.com
+facebook.net
+scontent.fbom1-2.fna.fbcdn.net
+video.fdel1-1.fna.fbcdn.net
+edge-chat.facebook.com
+upload.facebook.net
 
