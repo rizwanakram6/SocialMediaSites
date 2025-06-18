@@ -31,3 +31,57 @@ tracking.tiktok.com
 # Third-party trackers & related
 tiktokcdn.com.edgekey.net
 tiktokcdn-com.cdn.ampproject.org
+
+
+
+# Core Facebook Domains
+facebook.com
+www.facebook.com
+m.facebook.com
+mbasic.facebook.com
+web.facebook.com
+
+# Facebook CDN and Media
+fbcdn.net
+scontent.xx.fbcdn.net
+video.xx.fbcdn.net
+edge-mqtt.facebook.com
+upload.facebook.com
+
+# Facebook Apps & Services
+api.facebook.com
+graph.facebook.com
+developers.facebook.com
+connect.facebook.net
+apps.facebook.com
+staticxx.facebook.com
+
+# Facebook Login & Tracking
+fb.com
+fb.me
+fbsbx.com
+fb.gg
+l.facebook.com
+lm.facebook.com
+business.facebook.com
+ads.facebook.com
+adsmanager.facebook.com
+atdmt.com
+pixel.facebook.com
+messenger.com
+www.messenger.com
+workplace.com
+work.facebook.com
+
+# Facebook Ad Tracking Subdomains
+ads-api.facebook.com
+analytics.facebook.com
+tr.facebook.com
+s-static.ak.facebook.com
+creative.ak.fbcdn.net
+b-graph.facebook.com
+
+# Meta Services (Optional)
+meta.com
+portal.facebook.com
+
